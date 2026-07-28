@@ -46,11 +46,11 @@ root filesystem 建置完成代表 Buildroot 已將 root filesystem 所需檔案
 %%{init: {
   'flowchart': { 
     'nodeSpacing': 40, 
-    'rankSpacing': 60,
+    'rankSpacing': 40,
     'curve': 'linear'
   },
   'themeVariables': {
-    'fontSize': '25px',
+    'fontSize': '14px',
     'fontFamily': 'monospace'
   }
 }}%%
